@@ -1,5 +1,7 @@
 # White Glove Analytics — Embedded Intelligence Retainer
 
+![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)
+
 **Dedicated analytics partner for cannabis operators, PE firms, hedge funds, law firms, and industry operators.**
 
 Custom intelligence reports — weekly, monthly, or quarterly — built on live data and delivered as institutional-grade PDFs. One point of contact. No agency overhead. Reports generated automatically and delivered on your schedule.
