@@ -54,7 +54,7 @@ The same data engineering infrastructure that powers cannabis intelligence cover
 | Sports / Betting | ESPN, Yahoo Finance | Weekly · Monthly |
 | Compliance / RegTech | SEC EDGAR, FRED | Monthly · Quarterly |
 | Media / Entertainment | Yahoo Finance, SEC EDGAR | Monthly · Quarterly |
-| Solar / Renewables | NREL, Open-Meteo | Monthly · Quarterly |
+| Solar / Renewables | Open-Meteo (real archive irradiance data) | Monthly · Quarterly |
 
 ### Sample Reports — Other Verticals
 
@@ -75,6 +75,9 @@ The same data engineering infrastructure that powers cannabis intelligence cover
 
 **Sports / Betting**
 - [Weekly Intelligence Report — Baseline Sports Analytics (Nov 2025)](samples/sports/Baseline_Sports_Weekly_Intelligence_2025-11-21.pdf)
+
+**Solar / Renewables**
+- [Solar Resource & Economics Report — 3-Market Snapshot](samples/solar/Solar_Performance_Economics_Report.pdf) — real trailing-365-day irradiance data pulled live at generation time, disclosed PV-economics assumptions
 
 ### General Service Tiers
 
